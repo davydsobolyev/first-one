@@ -1,3 +1,3 @@
 # first-one
 
-<!DOCTYPE html>
+<style>
